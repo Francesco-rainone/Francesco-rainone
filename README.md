@@ -1,10 +1,19 @@
 ### Ciao, sono Francesco! 👋
 
-Sviluppatore con la passione per la programmazione e le nuove tecnologie. Ecco un riepilogo delle mie competenze:
+Sono un neodiplomato in Informatica, attualmente studente del percorso ITS Tech Talent Factory. La mia passione per la programmazione e le nuove tecnologie mi spinge a cercare costantemente nuove sfide per crescere professionalmente.
+
+Sono alla ricerca di un'opportunità di tirocinio che mi permetta di mettere in pratica le competenze acquisite, contribuendo al successo di un'azienda innovativa e dinamica.
 
 ---
 
-### 💻 Linguaggi di Programmazione, Framework e Librerie
+### 🔭 I miei progetti principali
+
+- **[Livingdex](https://github.com/Francesco-rainone/Livingdex)**: Inserisci qui una breve descrizione del tuo progetto.
+- **[pokedex](https://github.com/Francesco-rainone/pokedex)**: Inserisci qui una breve descrizione del tuo progetto.
+
+---
+
+### 💻 Linguaggi, Framework e Librerie
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -66,9 +75,9 @@ Sviluppatore con la passione per la programmazione e le nuove tecnologie. Ecco u
 
 ---
 
-### 🌐 Altre Competenze
+### 📫 Contattami
 
-- **Networking e Sicurezza**: Conoscenze di base su reti e sicurezza informatica.
-- **Lingue e Scrittura**: Technical English e Technical Writing.
+- **Email**: `la-tua-email@esempio.com`
+- **LinkedIn**: `https://www.linkedin.com/in/tuo-profilo`
 
 ---
