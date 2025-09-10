@@ -42,9 +42,13 @@ Sono uno studente presso l’**ITS Tech Talent Factory**, dove sto frequentando 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/JSP-5382A1?style=for-the-badge&logo=java&logoColor=white" alt="JSP (Java)" />
+</a>
+<a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/XML-0094C8?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
+</a>
 </p>
-
-- **Altro**: JSP, XML.
 
 ---
 
@@ -61,5 +65,5 @@ Sono uno studente presso l’**ITS Tech Talent Factory**, dove sto frequentando 
 
 ### 📫 Contattami
 
-- **Email**: ``
+- **Email**: `francesco.rainone@itstechtalentfactory.it`
 - **LinkedIn**: `www.linkedin.com/in/francesco-rainone-048560286`
