@@ -1,4 +1,4 @@
-## Ciao 👋, sono Francesco Rainone — studente e aspirante Full Stack Developer!
+## Ciao 👋, sono Francesco Rainone!
 
 In questo spazio condivido i miei progetti in cui sperimento nuove tecnologie per realizzare le mie idee.  
 Il mio obiettivo è crescere come Full Stack Developer, mantenendo però un approccio aperto e curioso: amo esplorare nuovi linguaggi e strumenti per arricchire continuamente le mie competenze.
