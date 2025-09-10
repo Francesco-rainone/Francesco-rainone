@@ -20,7 +20,7 @@ Sono uno studente presso l’**ITS Tech Talent Factory**, dove sto frequentando 
       <p>Un'applicazione web realizzata con React che ricrea il classico Pokédex. Sfruttando le PokeAPI, permette di visualizzare, cercare e filtrare i primi 151 Pokémon, mostrando dettagli come tipo, numero e statistiche.</p>
       <a href="https://github.com/Francesco-rainone/pokedex">Guarda il codice</a>
       <br/><br/>
-      <img src="https://private-user-images.githubusercontent.com/139572499/347477611-37d451a9-d75d-4f18-9710-4131584c6c21.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYwNzE2MjEsIm5iZiI6MTcyNjA3MTMyMSwicGF0aCI6Ii8xMzk1NzI0OTkvMzQ3NDc3NjExLTM3ZDQ1MWE5LWQ3NWQtNGYxOC05NzEwLTQxMzE1ODRjNmMyMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxMFQxNjA1MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MDcyYmZmNjY4MDBjMTA2ZjY5ZDMxOTgyYTU0N2MzMWZmZTc2ZmYyYmQzZDc4NGJjMGEzZDI4ODg5Y2QyM2E0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.0B89c4d9K5e81Jz6yJq7h11r_zK36i2qQ52j26gX8uY" alt="Pokedex Screenshot"/>
+      ![pokedex151](https://github.com/user-attachments/assets/aca512c6-41f3-485d-aa84-7ab7fe2c0ed0)
     </td>
   </tr>
 </table>
