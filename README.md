@@ -1,8 +1,8 @@
-## Benvenuti sul mio profilo! 👋
+## Ciao 👋, sono Francesco Rainone — studente e aspirante Full Stack Developer!
 
-Questo è lo spazio dove posso sfogare la mia creatività, buttandomi su progetti nuovi e innovativi e sperimentando con le ultime tecnologie.
+In questo spazio condivido i miei progetti in cui sperimento nuove tecnologie per realizzare le mie idee.  
+Il mio obiettivo è crescere come Full Stack Developer, mantenendo però un approccio aperto e curioso: amo esplorare nuovi linguaggi e strumenti per arricchire continuamente le mie competenze.
 
-Sono uno studente presso l’**ITS Tech Talent Factory**, dove sto frequentando un corso per diventare **Full Stack Developer**. Questo percorso rappresenta per me non solo una formazione tecnica, ma anche un'opportunità per crescere come professionista consapevole e orientato all’innovazione.
 
 ---
 
