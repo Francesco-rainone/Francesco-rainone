@@ -1,4 +1,4 @@
-### Benvenuti nel mio profilo! 👋
+## Benvenuti sul mio profilo! 👋
 
 Questo è lo spazio dove posso sfogare la mia creatività, buttandomi su progetti nuovi e innovativi e sperimentando con le ultime tecnologie.
 
