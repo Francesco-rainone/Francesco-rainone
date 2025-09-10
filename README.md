@@ -1,54 +1,50 @@
-### Ciao, sono Francesco! 👋
+### Benvenuti nel mio profilo! 👋
 
-Sono un neodiplomato in Informatica, attualmente studente del percorso ITS Tech Talent Factory. La mia passione per la programmazione e le nuove tecnologie mi spinge a cercare costantemente nuove sfide per crescere professionalmente.
+Questo è lo spazio dove posso sfogare la mia creatività, buttandomi su progetti nuovi e innovativi e sperimentando con le ultime tecnologie.
 
-Sono alla ricerca di un'opportunità di tirocinio che mi permetta di mettere in pratica le competenze acquisite, contribuendo al successo di un'azienda innovativa e dinamica.
+Sono uno studente presso l’**ITS Tech Talent Factory**, dove sto frequentando un corso per diventare **Full Stack Developer**. Questo percorso rappresenta per me non solo una formazione tecnica, ma anche un'opportunità per crescere come professionista consapevole e orientato all’innovazione.
 
 ---
 
 ### 🔭 I miei progetti principali
 
-- **[Livingdex](https://github.com/Francesco-rainone/Livingdex)**: Inserisci qui una breve descrizione del tuo progetto.
-- **[pokedex](https://github.com/Francesco-rainone/pokedex)**: Inserisci qui una breve descrizione del tuo progetto.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Livingdex</h3>
+      <p>Un'applicazione Flutter che utilizza <strong>Gemini 2.0 Flash</strong> per simulare un Pokédex nella vita reale, dedicata all'identificazione di piante e animali. L'obiettivo è invogliare le persone a guardarsi intorno e a riscoprire l'ambiente circostante con curiosità, il tutto attraverso un'interfaccia ispirata all'iconico design del Pokédex.</p>
+      <a href="https://github.com/Francesco-rainone/Livingdex">Guarda il codice</a> | <a href="https://youtu.be/Rmdl-78N8U4">Video Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Pokedex</h3>
+      <p>Un'applicazione web realizzata con React che ricrea il classico Pokédex. Sfruttando le PokeAPI, permette di visualizzare, cercare e filtrare i primi 151 Pokémon, mostrando dettagli come tipo, numero e statistiche.</p>
+      <a href="https://github.com/Francesco-rainone/pokedex">Guarda il codice</a>
+      <br/><br/>
+      <img src="https://private-user-images.githubusercontent.com/139572499/347477611-37d451a9-d75d-4f18-9710-4131584c6c21.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYwNzE2MjEsIm5iZiI6MTcyNjA3MTMyMSwicGF0aCI6Ii8xMzk1NzI0OTkvMzQ3NDc3NjExLTM3ZDQ1MWE5LWQ3NWQtNGYxOC05NzEwLTQxMzE1ODRjNmMyMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxMFQxNjA1MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MDcyYmZmNjY4MDBjMTA2ZjY5ZDMxOTgyYTU0N2MzMWZmZTc2ZmYyYmQzZDc4NGJjMGEzZDI4ODg5Y2QyM2E0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.0B89c4d9K5e81Jz6yJq7h11r_zK36i2qQ52j26gX8uY" alt="Pokedex Screenshot"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💻 Linguaggi, Framework e Librerie
+### 💻 Competenze Tecniche
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=c" alt="c" />
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus" alt="cplusplus" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=java" alt="java" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript" alt="javascript" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=html5" alt="html5" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=css3" alt="css3" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=mysql" alt="mysql" />
-  </a>
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=react" alt="react" />
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=dart" alt="dart" />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=flutter" alt="flutter" />
-  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
 </p>
 
-- **Paradigmi**: Programmazione Orientata agli Oggetti (OOP), Sviluppo GUI in Java.
 - **Altro**: JSP, XML.
 
 ---
@@ -56,28 +52,15 @@ Sono alla ricerca di un'opportunità di tirocinio che mi permetta di mettere in 
 ### 🛠️ Strumenti e Ambienti di Sviluppo
 
 <p align="left">
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=visualstudio" alt="visualstudio" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=vscode" alt="vscode" />
-  </a>
-  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=eclipse" alt="eclipse" />
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=ubuntu" alt="ubuntu" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=figma" alt="figma" />
-  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" /></a>
+  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
 </p>
 
 ---
 
 ### 📫 Contattami
 
-- **Email**: `la-tua-email@esempio.com`
-- **LinkedIn**: `https://www.linkedin.com/in/tuo-profilo`
-
----
+- **Email**: ``
+- **LinkedIn**: `www.linkedin.com/in/francesco-rainone-048560286`
