@@ -20,7 +20,6 @@ Sono uno studente presso l’**ITS Tech Talent Factory**, dove sto frequentando 
       <p>Un'applicazione web realizzata con React che ricrea il classico Pokédex. Sfruttando le PokeAPI, permette di visualizzare, cercare e filtrare i primi 151 Pokémon, mostrando dettagli come tipo, numero e statistiche.</p>
       <a href="https://github.com/Francesco-rainone/pokedex">Guarda il codice</a>
       <br/><br/>
-      ![pokedex151](https://github.com/user-attachments/assets/aca512c6-41f3-485d-aa84-7ab7fe2c0ed0)
     </td>
   </tr>
 </table>
