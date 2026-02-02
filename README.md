@@ -80,7 +80,3 @@ Sono sempre aperto a nuove sfide tecnologiche, collaborazioni su progetti AI o u
 * 💼 **LinkedIn:** [Francesco Rainone](https://www.linkedin.com/in/francesco-rainone-048560286)
 * 👨‍💻 **GitHub:** Se i miei progetti ti piacciono, lascia una ⭐!
 
----
-<p align="center">
-  <i>"Il codice è come l'umorismo. Se devi spiegarlo, non è venuto bene."</i>
-</p>
