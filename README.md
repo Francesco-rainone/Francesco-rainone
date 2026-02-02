@@ -3,6 +3,13 @@
 In questo spazio condivido i miei progetti in cui sperimento nuove tecnologie per realizzare le mie idee.  
 Il mio obiettivo è crescere come Full Stack Developer, mantenendo però un approccio aperto e curioso: amo esplorare nuovi linguaggi e strumenti per arricchire continuamente le mie competenze.
 
+---
+
+### 👾 GitHub Space Shooter
+
+Il mio storico di commit trasformato in un gioco arcade retro!
+
+![My GitHub Game](game.gif)
 
 ---
 
