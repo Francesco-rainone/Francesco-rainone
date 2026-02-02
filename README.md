@@ -50,7 +50,7 @@ Il mio storico di commit trasformato in un gioco arcade retro!
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/JSP-5382A1?style=for-the-badge&logo=java&logoColor=white" alt="JSP (Java)" />
+  <img src="https://img.shields.io/badge/JSP-5382A1?style=for-the-badge&logo=java&logoColor=white" alt="JSP(Java)" />
 </a>
 <a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/XML-0094C8?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
